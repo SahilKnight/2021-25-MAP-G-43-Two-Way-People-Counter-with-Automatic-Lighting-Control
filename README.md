@@ -27,4 +27,3 @@ This project uses ESP32, IR sensors, and ThingSpeak Cloud to count people enteri
 ## 📡 Cloud Integration
 Uses [ThingSpeak](https://thingspeak.com/) for cloud monitoring.
 
-## 📁 Directory Structure
